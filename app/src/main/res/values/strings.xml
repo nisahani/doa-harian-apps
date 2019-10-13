@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">doa-harian-apps</string>
+    <string name="app_name">Doa Harian Muslim</string>
+    <string name="kritik_saran"><![CDATA[Kritik & Saran]]></string>
 </resources>
